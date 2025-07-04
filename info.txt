@@ -1,1 +1,2 @@
 line 1 in feature
+line 2 in feature
